@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: '廖柯宇的独立博客'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
-url: '' # your host
+title: 'S-Lemon的独立博客'
+description: 'hello, 我是Lemon，一个热爱篮球热爱美食的程序员，喜欢前端喜欢看一些比较好玩的技术。最后，欧文MVP！'
+keyword: 'S-Lemon, S-Lemon的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+url: 'https://s-lemon.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -14,13 +14,13 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2019
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+author: 'S-Lemon'
+nickname: 'Lemon'
+bio: '前端，热爱web设计以及好玩的技术'
+avatar: '/assets/img/liang-head.jpg'
 
 # Search
 search: true
@@ -44,15 +44,15 @@ social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-postPatterns: 'circuitBoard'
+postPatterns: 'food'
 
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  weibo: '//weibo.com/6155538305'
+  zhihu: '//zhihu.com/people/slemon-king'
+  jianshu: '//www.jianshu.com/u/7179e487bd8e'
+  github: '//github.com/S-Lemon'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
